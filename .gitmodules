@@ -1,0 +1,3 @@
+[submodule "ActiveRecordLite"]
+	path = ActiveRecordLite
+	url = https://github.com/joshling1919/ActiveRecordLite.git
